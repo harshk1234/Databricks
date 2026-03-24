@@ -10,6 +10,7 @@ Lazy evaluation means execution is delayed until the result is actually needed. 
 
 above are transformation so no job created.
 
+Shuffling
 <img width="419" height="179" alt="image" src="https://github.com/user-attachments/assets/4019ca03-70e7-4d61-b420-4b5d841f7f1f" />
 
 above is action which casue jobs
